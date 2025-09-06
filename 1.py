@@ -42,3 +42,4 @@ if st.button("Generate"):
     st.write(f"Language: {lang}")
     st.write(f"Output type: {outpt}")
     st.write("This is where the AI output will appear")
+    
